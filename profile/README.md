@@ -1,4 +1,4 @@
-![tracifylogo](https://uploads-ssl.webflow.com/616935ef44b768a141b3c7e6/619b9fac6c7959d4d218e072_Tracify%20Logo%20tracify.ai%20-p-500.png)
+![tracifylogo](https://github.com/Tracify-ai/.github/raw/main/tracify-banners-small.png)
 # AI-Tracking to scale your business to the next level
 
 ## About our product
