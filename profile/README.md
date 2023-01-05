@@ -1,4 +1,4 @@
-![tracifylogo](https://github.com/Tracify-ai/.github/raw/main/tracify-banners-small.png)
+![tracifylogo](../logo_with_text.png)
 # AI-Tracking to scale your business to the next level
 
 ## About our product
