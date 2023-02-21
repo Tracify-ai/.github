@@ -1,4 +1,4 @@
-![tracifylogo](https://raw.githubusercontent.com/Tracify-ai/.github/main/logo_with_text.jpg)
+![tracifylogo](https://raw.githubusercontent.com/Tracify-ai/.github/main/logo_with_text.png)
 # AI-Tracking to scale your business to the next level
 
 ## About our product
